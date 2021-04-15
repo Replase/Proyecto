@@ -1,0 +1,21 @@
+.jumbotron{
+    background-color: #F7B9D5;
+    color: black;
+}
+.btn{
+    color: black;
+    background-color: #F7B9D5;
+}
+footer{
+    padding: 10px 10px 0 10px;
+    background-color:#F7B9D5 ;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.card-store{
+    flex: 1 150px;
+    padding: 2px 5px 2px 5px;
+}
+.btn-reserva{
+    width: 100%;
+}
